@@ -1,0 +1,8 @@
+
+li a {
+    color: red bold;
+}
+
+body {
+    background: white url("images/woodchuck.jpg") no-repeat;
+}
